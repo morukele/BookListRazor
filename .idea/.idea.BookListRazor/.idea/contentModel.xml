@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\Oghenemarho\.Rider2019.2\system\extResources" t="IncludeRecursive" />
@@ -9,6 +9,10 @@
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="BookListRazor.csproj" t="IncludeRecursive" />
+        <e p="Model" t="Include">
+          <e p="ApplicationDbContext.cs" t="Include" />
+          <e p="Book.cs" t="Include" />
+        </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
